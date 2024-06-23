@@ -9,5 +9,7 @@ public class Main {
     }
     private static void print2(String m){
         System.out.println("print2 method: " + m);
+        print("master");
     }
+
 }
